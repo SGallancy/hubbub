@@ -1,4 +1,4 @@
-Hubbub
+Hubbub -- Learning the Ropes by So-and-so Steve G
 ======
 
 Issues get messy, Hubbub keeps you organized.
